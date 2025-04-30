@@ -1,0 +1,14 @@
+.navigation {
+  background-color: #f8fafc;
+  width: 100%;
+  margin: 0;
+  height: 24px;
+  display: flex;
+  padding: 16px 24px;
+  align-items: center;
+  border-bottom: 1px solid #e2e8f0;
+  font-weight: 500;
+  color: #334155;
+  font-size: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
